@@ -1,0 +1,17 @@
+# Python venv
+venv/
+__pycache__/
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Build folders
+frontend/dist/
+backend/__pycache__/
+
+# OS files
+.DS_Store
+
+# Environment files
+*.env
+
